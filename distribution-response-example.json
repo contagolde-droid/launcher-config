@@ -1,0 +1,51 @@
+{
+  "cdnLauncher": "https://cdn.discordapp.com/attachments/COLOQUE_AQUI_O_NUMERO_DO_APK",
+  "cdnCache": "https://cdn.discordapp.com/attachments/1441829665504493721",
+  "servers": [
+    {
+      "id": 1,
+      "name": "Lotus RP",
+      "address": "135.148.164.122:11440",
+      "slot": 500,
+      "icon": "https://cdn.discordapp.com/attachments/1441829665504493721/1460417504496058584/7f0a6d147296913.62bf81470bc05.png?ex=69964d4a&is=6994fbca&hm=d84d270883521cb6d994796af2e0cc5bc6eb64af3604a8ef42f43132669f5ce6&",
+      "description": "Lotus Roleplay",
+      "events": [{"title": "Online", "style": "blue"}],
+      "version": "1.0",
+      "sampVersion": "1.0",
+      "show": true,
+      "bonus": false
+    }
+  ],
+  "launcher": {
+    "appVersion": "0.0.16",
+    "name": "app-release.apk",
+    "hash": "",
+    "bytes": 0,
+    "size": "0MB"
+  },
+  "cacheMode": [
+    {
+      "id": 1,
+      "name": "Lotus RP Game Files",
+      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1470550238006874132/com.rockstargames.gtasa.zip?ex=69964022&is=6994eea2&hm=8ab46223eb3066566b821eaa0ebfe9117d335e4330cc45454bb8ee2c4c61bd65&",
+      "hash": "",
+      "size": 1024000000,
+      "required": true
+    }
+  ],
+  "rss": "",
+  "versionHash": "v1",
+  "packageName": "com.lotusrp.roleplay",
+  "projectName": "Lotus Roleplay",
+  "filesContinue": [],
+  "cache": [
+    {
+      "id": 1,
+      "name": "Lotus RP Game Files",
+      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1470550238006874132/com.rockstargames.gtasa.zip?ex=69964022&is=6994eea2&hm=8ab46223eb3066566b821eaa0ebfe9117d335e4330cc45454bb8ee2c4c61bd65&",
+      "hash": "",
+      "size": 1024000000,
+      "required": true
+    }
+  ]
+}
