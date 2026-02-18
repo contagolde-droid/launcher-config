@@ -26,11 +26,19 @@
   "cacheMode": [
     {
       "id": 1,
-      "name": "Lotus RP Game Files",
-      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1470550238006874132/com.rockstargames.gtasa.zip?ex=69964022&is=6994eea2&hm=8ab46223eb3066566b821eaa0ebfe9117d335e4330cc45454bb8ee2c4c61bd65&",
-      "hash": "",
-      "size": 1024000000,
-      "required": true
+      "name": "Lotus RP Game Files (Normal)",
+      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1473519539219075093/gta_sa.zip?ex=69968182&is=69953002&hm=237713c312754fe789a8a21d81062e6d413797a13382b94e91a22536f8adec41&",
+      "path": "gta_sa",
+      "gpu": ["all"],
+      "bytes": [1024000000, 1024000000]
+    },
+    {
+      "id": 2,
+      "name": "Lotus RP Game Files (Neve)",
+      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1473519611897970790/gta_sa_snow.zip?ex=69968194&is=69953014&hm=fc2ea99df90c7c76010dda7d4a0b651e0257ed345b9a9d08e62bae30acfa6f6b&",
+      "path": "gta_sa_snow",
+      "gpu": ["all"],
+      "bytes": [1024000000, 1024000000]
     }
   ],
   "rss": "",
@@ -41,11 +49,19 @@
   "cache": [
     {
       "id": 1,
-      "name": "Lotus RP Game Files",
-      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1470550238006874132/com.rockstargames.gtasa.zip?ex=69964022&is=6994eea2&hm=8ab46223eb3066566b821eaa0ebfe9117d335e4330cc45454bb8ee2c4c61bd65&",
-      "hash": "",
-      "size": 1024000000,
-      "required": true
+      "name": "Lotus RP Game Files (Normal)",
+      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1473519539219075093/gta_sa.zip?ex=69968182&is=69953002&hm=237713c312754fe789a8a21d81062e6d413797a13382b94e91a22536f8adec41&",
+      "path": "gta_sa",
+      "gpu": ["all"],
+      "bytes": [1024000000, 1024000000]
+    },
+    {
+      "id": 2,
+      "name": "Lotus RP Game Files (Neve)",
+      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1473519611897970790/gta_sa_snow.zip?ex=69968194&is=69953014&hm=fc2ea99df90c7c76010dda7d4a0b651e0257ed345b9a9d08e62bae30acfa6f6b&",
+      "path": "gta_sa_snow",
+      "gpu": ["all"],
+      "bytes": [1024000000, 1024000000]
     }
   ]
 }
