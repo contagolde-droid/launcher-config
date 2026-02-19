@@ -1,1 +1,73 @@
 
+[
+  {
+    "title": "Evento no Servidor",
+    "image": "https://i.imgur.com/IWetabz.png",
+    "slug": "evento-1",
+    "description": "Participe dos eventos diários no nosso servidor!",
+    "created_at": "Ativo"
+  },
+  {
+    "title": "Novidades Lotus RP",
+    "image": "https://i.imgur.com/xoadNCD.png",
+    "slug": "evento-2",
+    "description": "Fique por dentro das atualizações do projeto.",
+    "created_at": "Novidade"
+  },
+  {
+    "title": "Comunidade Android",
+    "image": "https://i.imgur.com/Tiar6nR.png",
+    "slug": "evento-3",
+    "description": "A melhor experiência SAMP Mobile você encontra aqui.",
+    "created_at": "Destaque"
+  },
+  {
+    "title": "Espaço Reservado 4",
+    "image": "INSIRA_O_LINK_DA_IMAGEM_AQUI",
+    "slug": "noticia-4",
+    "description": "Descrição da notícia aqui.",
+    "created_at": "20/03"
+  },
+  {
+    "title": "Espaço Reservado 5",
+    "image": "INSIRA_O_LINK_DA_IMAGEM_AQUI",
+    "slug": "noticia-5",
+    "description": "Descrição da notícia aqui.",
+    "created_at": "20/03"
+  },
+  {
+    "title": "Espaço Reservado 6",
+    "image": "INSIRA_O_LINK_DA_IMAGEM_AQUI",
+    "slug": "noticia-6",
+    "description": "Descrição da notícia aqui.",
+    "created_at": "20/03"
+  },
+  {
+    "title": "Espaço Reservado 7",
+    "image": "INSIRA_O_LINK_DA_IMAGEM_AQUI",
+    "slug": "noticia-7",
+    "description": "Descrição da notícia aqui.",
+    "created_at": "20/03"
+  },
+  {
+    "title": "Espaço Reservado 8",
+    "image": "INSIRA_O_LINK_DA_IMAGEM_AQUI",
+    "slug": "noticia-8",
+    "description": "Descrição da notícia aqui.",
+    "created_at": "20/03"
+  },
+  {
+    "title": "Espaço Reservado 9",
+    "image": "INSIRA_O_LINK_DA_IMAGEM_AQUI",
+    "slug": "noticia-9",
+    "description": "Descrição da notícia aqui.",
+    "created_at": "20/03"
+  },
+  {
+    "title": "Espaço Reservado 10",
+    "image": "INSIRA_O_LINK_DA_IMAGEM_AQUI",
+    "slug": "noticia-10",
+    "description": "Descrição da notícia aqui.",
+    "created_at": "20/03"
+  }
+]
