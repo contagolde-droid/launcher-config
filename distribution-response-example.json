@@ -1,72 +1,46 @@
 {
-  "cdnLauncher": "https://cdn.discordapp.com/attachments/1441829665504493721",
-  "cdnCache": "https://cdn.discordapp.com/attachments/1441829665504493721",
+  "cdnLauncher": "https://seu-site.com/launcher/",
+  "cdnCache": "",
+  "cacheMode": [
+    {
+      "id": 1,
+      "name": "Data Principal do Servidor",
+      "path": "SAMP",
+      "name": "data.zip",
+      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1473815831283499148/data.zip?ex=69979574&is=699643f4&hm=d7b466c3392c1c7ae2e2b7de0d304ab99fea070a8b7ffa9798fb482d1ae35544&",
+      "bytes": [1024000000],
+      "gpu": [0, 1, 2, 3],
+      "required": true
+    }
+  ],
   "rss": "",
-  "versionHash": "v1.0.0",
+  "versionHash": "v1",
   "packageName": "com.touch.mobile.dark",
   "projectName": "Lotus Roleplay",
-  "filesContinue": [],
-  "launcher": {
-    "appVersion": "0.0.16",
-    "name": "app-release.apk",
-    "hash": "none",
-    "bytes": 0,
-    "size": "0MB"
-  },
   "servers": [
     {
       "id": 1,
       "show": true,
       "version": "1.0",
-      "icon": "https://cdn.discordapp.com/attachments/1441829665504493721/1460417504496058584/7f0a6d147296913.62bf81470bc05.png?ex=69964d4a&is=6994fbca&hm=d84d270883521cb6d994796af2e0cc5bc6eb64af3604a8ef42f43132669f5ce6&",
+      "icon": "https://raw.githubusercontent.com/penteleichuk/Samp-Launcer/main/assets/images/logo.png",
       "events": [
-        {
-          "title": "Online",
-          "style": "blue"
-        }
+        { "title": "Online", "style": "blue" }
       ],
-      "slot": 500,
+      "slot": 100,
       "bonus": false,
-      "name": "Lotus RP",
-      "description": "Lotus Roleplay",
+      "name": "Lotus RP | Servidor 1",
+      "description": "Jogue agora no melhor servidor!",
       "address": "135.148.164.122:11440",
-      "sampVersion": "1.0"
+      "sampVersion": "0.3.7"
     }
   ],
-  "cacheMode": [
-    {
-      "id": 1,
-      "name": "Lotus RP Game Files (Normal)",
-      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1473519539219075093/gta_sa.zip?ex=69968182&is=69953002&hm=237713c312754fe789a8a21d81062e6d413797a13382b94e91a22536f8adec41&",
-      "path": "gta_sa",
-      "gpu": "all",
-      "bytes": [1024000000, 1024000000]
-    },
-    {
-      "id": 2,
-      "name": "Lotus RP Game Files (Neve)",
-      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1473519611897970790/gta_sa_snow.zip?ex=69968194&is=69953014&hm=fc2ea99df90c7c76010dda7d4a0b651e0257ed345b9a9d08e62bae30acfa6f6b&",
-      "path": "gta_sa_snow",
-      "gpu": "all",
-      "bytes": [1024000000, 1024000000]
-    }
-  ],
-  "cache": [
-    {
-      "id": 1,
-      "name": "Lotus RP Game Files (Normal)",
-      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1473519539219075093/gta_sa.zip?ex=69968182&is=69953002&hm=237713c312754fe789a8a21d81062e6d413797a13382b94e91a22536f8adec41&",
-      "path": "gta_sa",
-      "gpu": "all",
-      "bytes": [1024000000, 1024000000]
-    },
-    {
-      "id": 2,
-      "name": "Lotus RP Game Files (Neve)",
-      "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1473519611897970790/gta_sa_snow.zip?ex=69968194&is=69953014&hm=fc2ea99df90c7c76010dda7d4a0b651e0257ed345b9a9d08e62bae30acfa6f6b&",
-      "path": "gta_sa_snow",
-      "gpu": "all",
-      "bytes": [1024000000, 1024000000]
-    }
-  ]
+  "launcher": {
+    "appVersion": "0.0.16",
+    "name": "app-release.apk",
+    "hash": "hash_do_apk",
+    "bytes": 52428800,
+    "size": "50MB"
+  },
+  "filesContinue": [],
+  "cache": []
 }
