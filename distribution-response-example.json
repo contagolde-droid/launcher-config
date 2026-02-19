@@ -4,12 +4,12 @@
   "cacheMode": [
     {
       "id": 1,
-      "name": "Data Principal do Servidor",
+      "name": "Data Lite",
       "path": "SAMP",
       "name": "data.zip",
       "url": "https://cdn.discordapp.com/attachments/1441829665504493721/1473815831283499148/data.zip?ex=69979574&is=699643f4&hm=d7b466c3392c1c7ae2e2b7de0d304ab99fea070a8b7ffa9798fb482d1ae35544&",
-      "bytes": [1024000000],
-      "gpu": [0, 1, 2, 3],
+      "bytes": [506652672],
+      "gpu": "0123",
       "required": true
     }
   ],
@@ -22,13 +22,13 @@
       "id": 1,
       "show": true,
       "version": "1.0",
-      "icon": "https://raw.githubusercontent.com/penteleichuk/Samp-Launcer/main/assets/images/logo.png",
+      "icon": "https://cdn.discordapp.com/attachments/1441829665504493721/1473817978884718593/logo.png?ex=69979774&is=699645f4&hm=62a9691043894003d60d0cda5bd5acfae237a34e78cc52ebcef237dbaed180f6&",
       "events": [
-        { "title": "Online", "style": "blue" }
+        { "title": "Trancado", "style": "red" }
       ],
-      "slot": 100,
+      "slot": 1000,
       "bonus": false,
-      "name": "TESTE",
+      "name": "Lotus Roleplay",
       "description": "Jogue agora no melhor servidor!",
       "address": "135.148.164.122:11440",
       "sampVersion": "0.3.7"
@@ -44,4 +44,3 @@
   "filesContinue": [],
   "cache": []
 }
-
