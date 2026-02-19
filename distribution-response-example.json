@@ -28,7 +28,7 @@
       ],
       "slot": 100,
       "bonus": false,
-      "name": "Lotus RP | Servidor 1",
+      "name": "TESTE",
       "description": "Jogue agora no melhor servidor!",
       "address": "135.148.164.122:11440",
       "sampVersion": "0.3.7"
@@ -44,3 +44,4 @@
   "filesContinue": [],
   "cache": []
 }
+
