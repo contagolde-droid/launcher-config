@@ -23,8 +23,10 @@
       "show": true,
       "version": "1.0",
       "icon": "https://cdn.discordapp.com/attachments/1441829665504493721/1473817978884718593/logo.png?ex=69979774&is=699645f4&hm=62a9691043894003d60d0cda5bd5acfae237a34e78cc52ebcef237dbaed180f6&",
-      "events": [
-        { "title": "Trancado", "style": "red" }
+      "events": 
+      [
+        { "title": "Online", "style": "green" },
+        { "title": "Teste", "style": "red" }
       ],
       "slot": 1000,
       "bonus": false,
@@ -44,3 +46,4 @@
   "filesContinue": [],
   "cache": []
 }
+
