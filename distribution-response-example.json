@@ -26,7 +26,8 @@
       "events": 
       [
         { "title": "Online", "style": "green" },
-        { "title": "Teste", "style": "red" }
+        { "title": "Liberado", "style": "green" },
+        { "title": "BETA", "style": "red" }
       ],
       "slot": 1000,
       "bonus": false,
@@ -46,4 +47,5 @@
   "filesContinue": [],
   "cache": []
 }
+
 
